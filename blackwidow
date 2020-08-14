@@ -1,0 +1,39 @@
+#!/bin/bash
+echo " *                                                            *
+                             aaaaaaaaaaaaaaaa               *
+                         aaaaaaaaaaaaaaaaaaaaaaaa
+                      aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                    aaaaaaaaaaaaaaaaa           aaaaaa
+                  aaaaaaaaaaaaaaaa                  aaaa
+                 aaaaaaaaaaaaa aa                      aa
+*               aaaaaaaa      aa                         a
+                aaaaaaa aa aaaa
+          *    aaaaaaaaa     aaa
+               aaaaaaaaaaa aaaaaaa                               *
+               aaaaaaa    aaaaaaaaaa
+               aaaaaa a aaaaaa aaaaaa
+                aaaaaaa  aaaaaaa
+                aaaaaaaa                                 a
+                 aaaaaaaaaa                            aa
+                  aaaaaaaaaaaaaaaa                  aaaa
+                    aaaaaaaaaaaaaaaaa           aaaaaa        *
+      *               aaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+                         aaaaaaaaaaaaaaaaaaaaaaaa
+                      *      aaaaaaaaaaaaaaaa
+     "
+
+sleep 0.5
+echo "coded by :sxh.c :insta sxh.c :twitter sxh_c"
+sleep 3
+echo "$(pwd)"
+sleep 3
+echo "$(whoami)"
+sleep 3
+echo "$(free -h )"
+sleep 3
+echo "$(id)"
+sleep 3
+echo "$(nmap 127.0.0.1 -r)"
+sleep 3
+echo "$(sudo apt-get update)"
+sleep 3
